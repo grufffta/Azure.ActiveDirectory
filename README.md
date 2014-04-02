@@ -8,4 +8,4 @@ The Azure.ActiveDirectory library provides access to the Azure Active Directory 
 
 ### Using the library
 
-To do...
+http://www.codeproject.com/Articles/749588/Role-Based-Access-Control-with-Azure-Active-Direct
