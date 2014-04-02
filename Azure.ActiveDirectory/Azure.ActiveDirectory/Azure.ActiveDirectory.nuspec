@@ -6,6 +6,7 @@
     <title>$title$</title>
     <authors>Gareth Barlow</authors>
     <owners>Gareth Barlow</owners>
+    <projectUrl>https://github.com/grufffta/Azure.ActiveDirectory</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>First release.</releaseNotes>

@@ -1,0 +1,21 @@
+﻿@model Azure.ActiveDirectory.AzureGraphService.Microsoft.WindowsAzure.ActiveDirectory.User
+@{
+    ViewBag.Title = "User Profile";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <td>Display Name</td>
+        <td>@Html.DisplayFor(m=>m.displayName)</td>
+    </tr>
+    <tr>
+        <td>First Name</td>
+        <td>@Html.DisplayFor(m=>m.givenName)</td>
+    </tr>
+    <tr>
+        <td>Last Name</td>
+        <td>@Html.DisplayFor(m=>m.surname)</td>
+    </tr>
+</table>
